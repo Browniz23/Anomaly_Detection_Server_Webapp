@@ -25,7 +25,7 @@ To get an anomaly report, select the algorithm to use (only two options availabl
 
 Here you can see the hierarchy of the project:
 
-///image///
+![uml] (https://github.com/oryaniv5/Anomaly_Detection_Server_Webapp/blob/main/readme%20images/MS2-UML.pdf)
 
 ## Developers
 * Itai Schuldenfrei
