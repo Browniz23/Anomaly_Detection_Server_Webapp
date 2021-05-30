@@ -21,11 +21,6 @@ To get an anomaly report, select the algorithm to use (only two options availabl
 
 ![anomaiesList](https://github.com/oryaniv5/Anomaly_Detection_Server_Webapp/blob/main/readme%20images/anomalies%20list.jpg)
 
-## Project UML
-
-Here you can see the hierarchy of the project:
-
-![uml] (https://github.com/oryaniv5/Anomaly_Detection_Server_Webapp/blob/main/readme%20images/MS2-UML.pdf)
 
 ## Developers
 * Itai Schuldenfrei
