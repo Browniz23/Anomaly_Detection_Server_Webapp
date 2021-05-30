@@ -1,0 +1,23 @@
+body {
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.item {
+  color: indigo;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+#detect {
+  width: 85px;
+  height: 40px;
+  font-size: medium;
+}

@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "\\\\wsl$\\Ubuntu-20.04\\home\\ischulden"
+	},
+	{
+		"path": "..\\..\\..\\.."
+	}
+],
+  "settings": {
+    "files.associations": {
+      "random": "c",
+      "*.tcc": "cpp",
+      "sstream": "c"
+    }
+  }
+}
