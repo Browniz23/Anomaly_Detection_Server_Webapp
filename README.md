@@ -2,7 +2,7 @@
 
 This is the second milestone in the 'Advanced Programming 2' course. An anomaly detection server is a web application used to detect anomalies in csv files that contain data about any activity.
 
-In this [link](youtube) you can see video that explain about using the server app. 
+In this [link](https://youtu.be/cUXwgftYXGk) you can see video that explain about using the server app. 
 
 ## Installation
 
